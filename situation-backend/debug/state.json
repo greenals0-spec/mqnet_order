@@ -1,0 +1,394 @@
+{
+  "updated_at": "2026-05-26T12:09:29.737422",
+  "calls": [],
+  "waiting": [
+    {
+      "waiting_id": "WT-680606CF",
+      "phone": "010-2345-6789",
+      "party_size": 5,
+      "status": "waiting",
+      "timestamp": "2026-05-25 11:13:47",
+      "store_id": "store-1"
+    },
+    {
+      "waiting_id": "WT-3AC1EBF5",
+      "phone": "010-2345-6789",
+      "party_size": 4,
+      "status": "waiting",
+      "timestamp": "2026-05-25 11:13:48",
+      "store_id": "store-2"
+    },
+    {
+      "waiting_id": "WT-7E797FD2",
+      "phone": "010-6789-0123",
+      "party_size": 2,
+      "status": "waiting",
+      "timestamp": "2026-05-25 11:13:48",
+      "store_id": "store-3"
+    }
+  ],
+  "parking": [],
+  "points": [
+    {
+      "phone": "01055556666",
+      "remaining": 10,
+      "total_earned": 10,
+      "last_updated": "2026-05-26T11:25:57.300945"
+    },
+    {
+      "phone": "010-5555-1111",
+      "remaining": 45000,
+      "total_earned": 45000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-5555-1111",
+      "remaining": 45000,
+      "total_earned": 45000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-7777-9999",
+      "remaining": 34000,
+      "total_earned": 34000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-7777-9999",
+      "remaining": 34000,
+      "total_earned": 34000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-5555-8888",
+      "remaining": 23000,
+      "total_earned": 23000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-5555-8888",
+      "remaining": 23000,
+      "total_earned": 23000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-5555-8888",
+      "remaining": 23000,
+      "total_earned": 23000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-8888-8888",
+      "remaining": 21500,
+      "total_earned": 21500,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-8888-8888",
+      "remaining": 21500,
+      "total_earned": 21500,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-6666-7777",
+      "remaining": 19200,
+      "total_earned": 19200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-6666-7777",
+      "remaining": 19200,
+      "total_earned": 19200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-6666-7777",
+      "remaining": 19200,
+      "total_earned": 19200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-2222-8888",
+      "remaining": 15000,
+      "total_earned": 15000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-2222-8888",
+      "remaining": 15000,
+      "total_earned": 15000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-1234-5678",
+      "remaining": 12500,
+      "total_earned": 12500,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-1234-5678",
+      "remaining": 12500,
+      "total_earned": 12500,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-1234-5678",
+      "remaining": 12500,
+      "total_earned": 12500,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-1234-5678",
+      "remaining": 12500,
+      "total_earned": 12500,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-7777-7777",
+      "remaining": 12000,
+      "total_earned": 12000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-7777-7777",
+      "remaining": 12000,
+      "total_earned": 12000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-4444-5555",
+      "remaining": 11200,
+      "total_earned": 11200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-4444-5555",
+      "remaining": 11200,
+      "total_earned": 11200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-4444-5555",
+      "remaining": 11200,
+      "total_earned": 11200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-4444-5555",
+      "remaining": 11200,
+      "total_earned": 11200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-5678-5678",
+      "remaining": 9800,
+      "total_earned": 9800,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-5678-5678",
+      "remaining": 9800,
+      "total_earned": 9800,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-5678-5678",
+      "remaining": 9800,
+      "total_earned": 9800,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-5678-5678",
+      "remaining": 9800,
+      "total_earned": 9800,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-1111-2222",
+      "remaining": 9000,
+      "total_earned": 9000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-1111-2222",
+      "remaining": 9000,
+      "total_earned": 9000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-7777-3333",
+      "remaining": 6700,
+      "total_earned": 6700,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-7777-3333",
+      "remaining": 6700,
+      "total_earned": 6700,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-7777-3333",
+      "remaining": 6700,
+      "total_earned": 6700,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-7777-3333",
+      "remaining": 6700,
+      "total_earned": 6700,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-8888-0000",
+      "remaining": 5500,
+      "total_earned": 5500,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-8888-0000",
+      "remaining": 5500,
+      "total_earned": 5500,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-8888-0000",
+      "remaining": 5500,
+      "total_earned": 5500,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9876-5432",
+      "remaining": 4200,
+      "total_earned": 4200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9876-5432",
+      "remaining": 4200,
+      "total_earned": 4200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9876-5432",
+      "remaining": 4200,
+      "total_earned": 4200,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9999-9999",
+      "remaining": 3100,
+      "total_earned": 3100,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9999-9999",
+      "remaining": 3100,
+      "total_earned": 3100,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9999-9999",
+      "remaining": 3100,
+      "total_earned": 3100,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-3333-7777",
+      "remaining": 2800,
+      "total_earned": 2800,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-3333-7777",
+      "remaining": 2800,
+      "total_earned": 2800,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-3333-7777",
+      "remaining": 2800,
+      "total_earned": 2800,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-1234-1234",
+      "remaining": 1850,
+      "total_earned": 1850,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-1234-1234",
+      "remaining": 1850,
+      "total_earned": 1850,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-1234-1234",
+      "remaining": 1850,
+      "total_earned": 1850,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-3333-4444",
+      "remaining": 1550,
+      "total_earned": 1550,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-3333-4444",
+      "remaining": 1550,
+      "total_earned": 1550,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-5555-1111",
+      "remaining": 45000,
+      "total_earned": 45000,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-2222-3333",
+      "remaining": 800,
+      "total_earned": 800,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-2222-3333",
+      "remaining": 800,
+      "total_earned": 800,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9999-1111",
+      "remaining": 700,
+      "total_earned": 700,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9999-1111",
+      "remaining": 700,
+      "total_earned": 700,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9999-1111",
+      "remaining": 700,
+      "total_earned": 700,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-9999-1111",
+      "remaining": 700,
+      "total_earned": 700,
+      "last_updated": "2026-05-25 11:13:44"
+    },
+    {
+      "phone": "010-3333-4444",
+      "remaining": 1550,
+      "total_earned": 1550,
+      "last_updated": "2026-05-25 11:13:44"
+    }
+  ],
+  "reservations": []
+}
