@@ -626,5 +626,82 @@
     "timestamp": "2026-05-28 08:59:52",
     "store": "시크빌",
     "store_id": "store-chicvill"
+  },
+  {
+    "id": "store-config-store-01082817377",
+    "type": "StoreConfig",
+    "title": "매장 정보",
+    "store": "시크빌",
+    "store_id": "store-01082817377",
+    "status": "approved",
+    "items": [
+      {
+        "name": "상호명",
+        "value": "시크빌"
+      },
+      {
+        "name": "사업자번호",
+        "value": "5871301146"
+      },
+      {
+        "name": "대표자",
+        "value": "김종심"
+      },
+      {
+        "name": "개업일자",
+        "value": "20191216"
+      },
+      {
+        "name": "정산계좌",
+        "value": "하나은행 44091015399707"
+      },
+      {
+        "name": "연락처",
+        "value": "01082817377"
+      },
+      {
+        "name": "테이블설정",
+        "value": "1번: 4인석, 2번: 4인석, 3번: 4인석, 4번: 4인석"
+      }
+    ]
+  },
+  {
+    "id": "USER-1780222862719",
+    "type": "PersonalInfos",
+    "title": "김종심님 가입 완료 (점주)",
+    "items": [
+      {
+        "name": "이름",
+        "value": "김종심"
+      },
+      {
+        "name": "아이디",
+        "value": "01082817377"
+      },
+      {
+        "name": "비밀번호",
+        "value": "c3ad5e77a3e18c83c5ad94f93c5d426f2862ec0e277f3d7b800432ac131cd6f3"
+      },
+      {
+        "name": "권한",
+        "value": "owner"
+      },
+      {
+        "name": "사업자번호",
+        "value": "5871301146"
+      },
+      {
+        "name": "개업일자",
+        "value": "20191216"
+      },
+      {
+        "name": "휴대폰",
+        "value": "01082817377"
+      }
+    ],
+    "status": "approved",
+    "timestamp": "2026. 5. 31. 오후 7:21:02",
+    "store": "시크빌",
+    "store_id": "store-01082817377"
   }
 ]
