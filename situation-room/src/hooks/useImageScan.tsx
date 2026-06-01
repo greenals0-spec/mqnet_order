@@ -79,7 +79,7 @@ export const useImageScan = ({ docType, onSuccess }: UseImageScanOptions) => {
             
         } catch (err: any) {
             logger.error(`[Scan] 이미지 분석 실패: ${err.message}`);
-            alert(`이미지 분석에 실패했습니다.\n\n오류: ${err.message}\n\nOpenAI API 키가 설정되어 있는지 확인해 주세요.`);
+            alert(`이미지 분석에 실패했습니다.\n\n오류: ${err.message}\n\nGemini API 키가 설정되어 있는지 확인해 주세요.`);
         } finally {
             setIsScanning(false);
             if (fileInputRef.current) fileInputRef.current.value = '';
