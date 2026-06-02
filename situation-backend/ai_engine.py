@@ -8,7 +8,7 @@ load_dotenv()
 
 # --- AI Engine Configuration ---
 gemini_key = os.getenv("GEMINI_API_KEY")
-gemini_model_name = "gemini-2.0-flash"
+gemini_model_name = "gemini-1.5-flash"
 
 # Gemini Client
 client = None
